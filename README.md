@@ -20,4 +20,5 @@
 * [**LinkedIn**](https://www.linkedin.com/in/hc-jinghu/)
 * **Personal Website** - in progress
 
-
+### What I'm working on:
+* [split & budget tracker]([url](https://github.com/hc-jinghu/sharebao)https://github.com/hc-jinghu/sharebao) - using Flutter
